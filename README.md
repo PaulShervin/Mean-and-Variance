@@ -1,4 +1,4 @@
-# Exp.no:01 Date:24/09/24
+# Exp.no:01 Date:28/09/24
 #  Mean and variance of a discrete  distribution
 
 
